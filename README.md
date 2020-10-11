@@ -45,4 +45,10 @@ Sound and Radio waves belong on the same spectrum (although far away form each o
 When it comes to a wireless system there are several terminologies that you ought to be familiar with viz. <br>
 **Payload** : The data that we wish to transmit. If we wish to send the plain-text "Apple" from A to B then "Apple" is our payload. This term will evolve as we go. <br>
 **Frame** : Lets just say that it is a sequence of data that makes some sense to us. Like how "Apple" made sense before. This term will also evolve as we go. <br>
-**Carrier** : It is that which would carry our data from point A to point B. In our case it is sound waves.
+**Carrier** : For a basic defenition lets think of this like a donkey which carries wood, here donkey is our carrier and wood is what is carried. In our case sound waves will carry our data, so sound waves can be considered as our carrier.<br>
+**CRC** : Cyclic Redundancy Check is a famous error detection code<br>
+Wireless domain specific terms :<br>
+**Carrier Frequency** : Since we are using sound waves to carry data, the sound wave used for this purpose will have a frequency and this value is carrier frequency.<br>
+**number of Channels** : The number of distinct carrier frequencies that we use in our system<br>
+**channel** : Each individual carrier frequency can send and receive data and is therefore considered as one channel.
+**channel spacing** : The gap in frequency between each of the channels is called channel spacing
