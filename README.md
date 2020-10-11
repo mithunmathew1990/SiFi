@@ -21,4 +21,17 @@ Regarding License
 In order to ensure that the project remains completely free and unencumbered by anyone's copyright monopoly, it is advisable that you as a major contributor, explicitly dedicate your code-base contributions to the public domain. If you are contributing code to this project outside of "The Unlicense" license, please ensure that the license details are also brought in.
 
 
-
+Table of contents
+=================
+1. Physical Layer in practise
+   a. Sound vs Radio waves?
+   b. Basic terminologies
+   c. The science of 1's and 0's
+   d. Sending and receiving a bit
+   e. Sending the payload and receiving it?
+   f. Need for Preamble and Syncword
+   g. Energy consumption considerations
+   h. Channel usage considerations; Channel hopping / Frequency hopping (FH)
+   i. Covering the distance
+   j. Spread specturm vs narrow band
+   h. Spread specturm in practise : chirp spread specturm (CSS)
