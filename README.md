@@ -41,3 +41,8 @@ Physical layer of OSI stack deals with getting data from point A to point B. Thi
   1. Sound vs Radio waves <br>
 There are several reasons why we are implementing this stack using sound waves instead of radio waves. The main reason is that radio equipment and its use is tightly controlled in all countries and you often need to acquire R&D license even for hobby projects. Radio hardware is usually costly and with all its wires and connections is a messy thing to deal with. Since we are here to learn concepts lets skip the messy area. <br>
 Sound and Radio waves belong on the same spectrum (although far away form each other) and therefore have a lot in common. The method of encoding and decoding data with sound waves and that with radio waves are essential same.<br>
+  1. Basic terminologies <br>
+When it comes to a wireless system there are several terminologies that you ought to be familiar with viz. <br>
+**Payload** : The data that we wish to transmit. If we wish to send the plain-text "Apple" from A to B then "Apple" is our payload. This term will evolve as we go. <br>
+**Frame** : Lets just say that it is a sequence of data that makes some sense to us. Like how "Apple" made sense before. This term will also evolve as we go. <br>
+**Carrier** : It is that which would carry our data from point A to point B. In our case it is sound waves.
