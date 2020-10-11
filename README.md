@@ -24,14 +24,17 @@ In order to ensure that the project remains completely free and unencumbered by 
 Table of contents
 =================
 1. Physical Layer in practise
-   a. Sound vs Radio waves?
-   b. Basic terminologies
-   c. The science of 1's and 0's
-   d. Sending and receiving a bit
-   e. Sending the payload and receiving it?
-   f. Need for Preamble and Syncword
-   g. Energy consumption considerations
-   h. Channel usage considerations; Channel hopping / Frequency hopping (FH)
-   i. Covering the distance
-   j. Spread specturm vs narrow band
-   h. Spread specturm in practise : chirp spread specturm (CSS)
+   1. Sound vs Radio waves?
+   1. Basic terminologies
+   1. The science of 1's and 0's
+   1. Sending and receiving a bit
+   1. Sending the payload and receiving it?
+   1. Need for Preamble and Syncword
+   1. Energy consumption considerations
+   1. Channel usage considerations; Channel hopping / Frequency hopping (FH)
+   1. Covering the distance; Spread specturm vs narrow band
+   1. Spread specturm in practise : chirp spread specturm (CSS)
+
+Chapter 1 : Physical Layer in practise
+======================================
+Physical layer of OSI stack deals with getting data from point A to point B. This is were the software meets the physical hardware. In our case, our physical layer will use sound waves to propogate information though the air onto another system. Our computer's speaker and microphone will be used as the transmitter and receiver for this purpose. In a radio system, they use antenna to the same effect.
